@@ -10,3 +10,5 @@
 // 2 - Create two instances of the RightTriangle
 // object. Console log the results of calling
 // both functions on both instances.
+
+***ran out of time***

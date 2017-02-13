@@ -7,3 +7,4 @@
 
   // 3 - Get rid of (delete) the useless unordered list (ul) by first
   // selecting the h2 nested within its list item.
+***ran out of time***
